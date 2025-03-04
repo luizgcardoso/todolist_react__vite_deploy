@@ -4,5 +4,5 @@ import react from "@vitejs/plugin-react";
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: "/todolist_react_vite_deploy",
+  base: "/todolist_react__vite_deploy",
 });
