@@ -1,5 +1,5 @@
 {
-  "homepage": "https://luizgcardoso.github.io/todolist_react_vite_deploy",
+  "homepage": "https://luizgcardoso.github.io/todolist_react__vite_deploy",
   "name": "projeto",
   "private": true,
   "version": "0.0.0",
@@ -9,7 +9,7 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy": "npm run buid",
+    "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
